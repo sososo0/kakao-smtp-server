@@ -1,6 +1,8 @@
 # kakao-stmp-server
 카테캠 3단계 smtp 전송을 위한 서버 구축
 
+[Related Repository](https://github.com/Step3-kakao-tech-campus/Team3_BE)
+
 - Naver Cloud의 서버를 구축하여 Flask를 실행합니다. 
 
 #### Flask 사용 이유 
